@@ -1,4 +1,4 @@
-# soj-git.github.io# H1
+# H1
 ## H2
 ### H3
 #### H4
